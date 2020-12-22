@@ -1,8 +1,8 @@
 ## Northwind@MongoDB ##
-Forked from https://github.com/tmcnab/northwind-mongo
-Who forked from https://github.com/leisenstein/northwind-mongo
-Who forked from https://github.com/tmcnab/northwind-mongo
-which thanks to (@shayden)[https://github.com/shayden] for the csv dump.
+Forked from https://github.com/tmcnab/northwind-mongo  
+Who forked from https://github.com/leisenstein/northwind-mongo  
+Who forked from https://github.com/tmcnab/northwind-mongo  
+which thanks to (@shayden)[https://github.com/shayden] for the csv dump  
 
 
 ### What it is
